@@ -1,5 +1,5 @@
 .container{
-    margin-bottom: 100px;
+    margin-bottom:100px
 }
 .orange-bg{
     background-color: #fceae8;
@@ -56,4 +56,8 @@
 footer{
     text-align: center;
     color: grey;
+}
+
+.container2{
+    margin-bottom: 100px;
 }
